@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/run-icon.png',
 
   // Set the production url of your site here
-  url: 'https://runningtourstallinn.github.io',
+  url: 'https://tallinnrunningtours.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'isaac-chung', // Usually your GitHub org/user name.
-  projectName: 'runningtourstallinn.github.io', // Usually your repo name.
+  projectName: 'tallinnrunningtours.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -72,7 +72,7 @@ const config = {
           customCss: './src/css/custom.css',
         },
         gtag: {
-          trackingID: 'G-PNHB98RZ0D',
+          trackingID: 'G-S9GM86JB37',
           anonymizeIP: true,
         },
       },
@@ -99,6 +99,7 @@ const config = {
       },
       items: [
         {to: '/', label: 'Book Now', position: 'left'},
+        {to: '/docs/routes', label: 'Routes', position: 'left'},
         {
           href: '/',
           label: 'Book Now via WhatsApp',
@@ -122,16 +123,20 @@ const config = {
           title: 'More',
           items: [
             {
+              label: 'Donate',
+              href: '/donate',
+            },
+            {
               label: 'Contact Us',
-              to: '/',
+              to: 'mailto:tallinnrunningtours@gmail.com',
             },
             {
               label: 'WhatsApp',
               href: '/',
             },
             {
-              label: 'Donate',
-              href: 'https://revolut.me/isaacvui7',
+              label: 'Terms and Conditions',
+              href: '/tncs',
             },
           ],
         },
