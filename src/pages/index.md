@@ -5,7 +5,11 @@ title: Tallinn Running Tours
 
 ## Tallinn Running Tours 🇪🇪🏃
 
-Come train and explore Tallinn with us!! See places that normal tourists do not see.
+[![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://revolut.me/isaacvui7)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+
+Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
 
 Welcome to Estonia! Whether you're a seasoned runner or an occasional park run participant, running is one of the best ways to see a new city. Choose one of the run options below, or contact us if you have further questions.
 
@@ -14,22 +18,22 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 <br />
 
 <center>
-👇 Book Now via Whatsapp 👇
+👇 **Book Now via Whatsapp** 👇
 
 <img src="img/whatsapp.svg" height="60"/>
 </center>
 
-## The Routes
-Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by the old town gates (Viru Gates).
+## The Routes :earth_americas:
+Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [the old town gate (Viru Gate)](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
 
-|              ⭐                 |             ⭐⭐                 |       ⭐⭐⭐                   |
+|              :hot_pepper:                 |             :hot_pepper::hot_pepper:                 |       :hot_pepper::hot_pepper::hot_pepper:                   |
 |:-----------------------------:|:----------------------------:|:------------------------:|
-|  The Classic <br /> 8/10km |  Hit the Trails <br /> 10/15km | Custom Adventure <br /> _Contact us!_ |
-| Eastbound and Down <br /> 10/12km | Round the Island <br /> 12/15/17km | Private Group <br /> _Contact us!_|
+|  The Classic <br /> Distances: 8/10km <br /> Time: ~50m-1h |  Hit the Trails <br /> Distances: 10/15km <br /> Time: 1h-1h30m | Custom Adventure <br /> _Contact us!_ |
+| Eastbound and Down <br /> Distances: 10/12km <br /> Time: 1h-1h15m | Round the Island <br /> Distances: 12/15/17km <br /> Time: 1h15-1h45m | Private Group <br /> _Contact us!_|
 
 ## Logistics :truck:
 - **Start time**: This is highly tailored to your needs. Let us know in the booking what time you'd like to start so we can plan accordingly (subject to availability)
-- **Start / Finish location**: Most routes start and finish by Viru Gates. Let us know in the booking if you'd prefer to start/finish elsewhere (e.g. by your hotel, by a bar 🍺 ).
+- **Start / Finish location**: Most routes start and finish by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6). Let us know in the booking if you'd prefer to start/finish elsewhere (e.g. by your hotel, by a bar 🍺 ).
 - **Pace**: By default we will aim for 6min/km (10min/mile) pace to start with. During the run, we will check in with you often as well. 
 - **What does this include?**: All runs include photo stops where you can take photos and fueling stops for anything you've brought along.
 
@@ -38,22 +42,33 @@ Choose one (or more) of the following popular options based on your available ti
 - Cancellations: Please allow at least 24-hour notice for any cancellations no matter the reason. This means that we can attend to other runners during your slot.
 
 
-## Important Notes❗
-1. 💰 While we have a non-tipping policy, feel free to donate to support our back office activities!
+## Important❗
+1. 💰 While we have a non-tipping policy, feel free to [donate to support our back office activities](https://revolut.me/isaacvui7)!
 2. 🏃‍♂️ We are local runners and _not_ official tour guides, but we'll do our best to drop some fun facts along the way. 
 3. ❄️ Dress for the weather. Estonia can be very cold, windy, and icy during the winter and warm in the summer. So be sure to dress appropriately.
 4. 🎉 Above all, have fun!
 
 
 <center>
-👇 Book Now via Whatsapp 👇
+👇 **Book Now via Whatsapp** 👇
 
 <img src="img/whatsapp.svg" height="60"/>
 </center>
 
-Booking template
+## Last few things
+- **Booking template** (Hover over the top right corner to copy the text)
 ```
-Hello! My name is {NAME} and I would like to join the {OPTION} route.
+Hello! My name is {YOUR_NAME} and I would like to join the {OPTION} route.
+
+Start time: 2024 JAN 02, 17:00
+Pace:       6:30min/km
+
+Looking forward to it!
 ```
 
-If you're unsure about anything mentioned above, send us a message and we will get back to you as soon as possible.
+- If you're unsure about anything mentioned above, send us a message and we will get back to you as soon as possible.
+- If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
+
+[![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://revolut.me/isaacvui7)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)

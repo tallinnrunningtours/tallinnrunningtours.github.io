@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/run-icon.png',
 
   // Set the production url of your site here
-  url: 'https://isaac-chung.github.io',
+  url: 'https://runningtourstallinn.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -98,10 +98,10 @@ const config = {
         src: 'img/run-icon.png',
       },
       items: [
-        {to: '/', label: 'Book Now!', position: 'left'},
+        {to: '/', label: 'Book Now', position: 'left'},
         {
           href: '/',
-          label: 'Book Now via WhatsApp!',
+          label: 'Book Now via WhatsApp',
           position: 'right',
         },
       ],
@@ -113,8 +113,8 @@ const config = {
           title: 'Social',
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/isaacchung1217',
+              label: 'Google',
+              href: '/',
             },
           ],
         },
@@ -128,6 +128,10 @@ const config = {
             {
               label: 'WhatsApp',
               href: '/',
+            },
+            {
+              label: 'Donate',
+              href: 'https://revolut.me/isaacvui7',
             },
           ],
         },
