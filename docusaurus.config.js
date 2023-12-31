@@ -99,6 +99,7 @@ const config = {
       },
       items: [
         {to: '/', label: 'Book Now', position: 'left'},
+        {to: '/docs/routes', label: 'Routes', position: 'left'},
         {
           href: '/',
           label: 'Book Now via WhatsApp',
@@ -123,7 +124,7 @@ const config = {
           items: [
             {
               label: 'Donate',
-              href: 'https://revolut.me/isaacvui7',
+              href: '/donate',
             },
             {
               label: 'Contact Us',
