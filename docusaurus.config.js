@@ -52,7 +52,7 @@ const config = {
             defaultReadingTime({content, options: {wordsPerMinute: 300}}),
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Isaac Chung`,
+            copyright: `Copyright © ${new Date().getFullYear()} Tallinn Running Tours`,
             createFeedItems: async (params) => {
               const {blogPosts, siteConfig, defaultCreateFeedItems, ...rest} = params;
               return defaultCreateFeedItems({
@@ -90,18 +90,18 @@ const config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/1311.jpg',
+    image: 'img/run-icon.png',
     navbar: {
-      title: 'Projects Page',
+      title: 'Tallinn Running Tours',
       logo: {
         alt: 'icon',
-        src: 'img/1311.png',
+        src: 'img/run-icon.png',
       },
       items: [
-        {to: '/', label: 'Isaac Chung', position: 'left'},
+        {to: '/', label: 'Book Now!', position: 'left'},
         {
-          href: 'https://github.com/isaac-chung',
-          label: 'GitHub',
+          href: '/',
+          label: 'Book Now via WhatsApp!',
           position: 'right',
         },
       ],
@@ -122,18 +122,18 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Contact Us',
               to: '/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/isaac-chung',
+              label: 'WhatsApp',
+              href: '/',
             },
           ],
         },
       ],
       // Existing copyright...
-      copyright: `Copyright © ${new Date().getFullYear()} Isaac Chung`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tallinn Running Tours`,
     },
     prism: {
       theme: lightCodeTheme,
