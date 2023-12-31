@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/run-icon.png',
 
   // Set the production url of your site here
-  url: 'https://runningtourstallinn.github.io',
+  url: 'https://tallinnrunningtours.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'isaac-chung', // Usually your GitHub org/user name.
-  projectName: 'runningtourstallinn.github.io', // Usually your repo name.
+  projectName: 'tallinnrunningtours.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -123,7 +123,7 @@ const config = {
           items: [
             {
               label: 'Contact Us',
-              to: '/',
+              to: 'mailto:tallinnrunningtours@gmail.com',
             },
             {
               label: 'WhatsApp',

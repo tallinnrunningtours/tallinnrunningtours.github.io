@@ -7,6 +7,7 @@ title: Tallinn Running Tours
 
 [![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://revolut.me/isaacvui7)
+[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
 
 Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
@@ -71,4 +72,5 @@ Looking forward to it!
 
 [![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://revolut.me/isaacvui7)
+[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
