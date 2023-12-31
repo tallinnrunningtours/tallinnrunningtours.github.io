@@ -39,7 +39,7 @@ Choose one (or more) of the following popular options based on your available ti
 - **What does this include?**: All runs include photo stops where you can take photos and fueling stops for anything you've brought along.
 
 ## Bookings and Cancellations
-- Bookings: You are welcome to book at least **24 hours in advance** (subject to availability)
+- Bookings: You are welcome to book at least **24 hours in advance** (subject to availability). Start times are between 08:00-19:00.
 - Cancellations: Please allow at least 24-hour notice for any cancellations no matter the reason. This means that we can attend to other runners during your slot.
 
 
