@@ -72,7 +72,7 @@ const config = {
           customCss: './src/css/custom.css',
         },
         gtag: {
-          trackingID: 'G-PNHB98RZ0D',
+          trackingID: 'G-S9GM86JB37',
           anonymizeIP: true,
         },
       },
@@ -149,16 +149,6 @@ const config = {
       darkTheme: darkCodeTheme,
     },
   },
-
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-S9GM86JB37',
-        anonymizeIP: true,
-      },
-    ],
-  ],
 };
 
 export default config;
