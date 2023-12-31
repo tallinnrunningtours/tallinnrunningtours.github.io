@@ -75,6 +75,12 @@ const config = {
           trackingID: 'G-S9GM86JB37',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       },
     ],
   ],
