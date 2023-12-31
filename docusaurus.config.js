@@ -122,6 +122,10 @@ const config = {
           title: 'More',
           items: [
             {
+              label: 'Donate',
+              href: 'https://revolut.me/isaacvui7',
+            },
+            {
               label: 'Contact Us',
               to: 'mailto:tallinnrunningtours@gmail.com',
             },
@@ -130,8 +134,8 @@ const config = {
               href: '/',
             },
             {
-              label: 'Donate',
-              href: 'https://revolut.me/isaacvui7',
+              label: 'Terms and Conditions',
+              href: '/tncs',
             },
           ],
         },
