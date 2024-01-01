@@ -104,10 +104,15 @@ const config = {
         src: 'img/run-icon.png',
       },
       items: [
-        {to: '/', label: 'Book Now', position: 'left'},
+        {to: 'https://wa.me/37258972730', label: 'Book Now', position: 'left'},
         {to: '/docs/routes', label: 'Routes', position: 'left'},
         {
-          href: '/',
+          label: 'Tip',
+          href: '/donate',
+          position: 'right',
+        },
+        {
+          href: 'https://wa.me/37258972730',
           label: 'Book Now via WhatsApp',
           position: 'right',
         },
@@ -129,7 +134,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Donate',
+              label: 'Tip',
               href: '/donate',
             },
             {
@@ -138,7 +143,7 @@ const config = {
             },
             {
               label: 'WhatsApp',
-              href: '/',
+              href: 'https://wa.me/37258972730',
             },
             {
               label: 'Terms and Conditions',
