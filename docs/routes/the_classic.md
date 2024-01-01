@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Go through the north of Tallinn and discover landmarks like Linnahall and areas like Kalamaja, Telliskivi, and finish in the iconic Tallinn Old Town. Did I mention that there is a moat?
 
-The 10km options starts ad finishes at [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
+Both the 8km and 10km options start and finish at [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6). 
 
 <center>
 <div class='embed-container maps'>

@@ -33,11 +33,11 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 </center> -->
 
 ## The Routes :earth_americas:
-Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [the Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
+Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6) or [Freedom Square](https://maps.app.goo.gl/mWmMoZELgbBYJfxE6).
 
 |              :hot_pepper:                 |             :hot_pepper::hot_pepper:                 |       :hot_pepper::hot_pepper::hot_pepper:                   |
 |:-----------------------------:|:----------------------------:|:------------------------:|
-|  [The Classic](docs/routes/the_classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit_the_trails) <br /> Distances: 12km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom_adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
+|  [The Classic](docs/routes/the_classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit_the_trails) <br /> Distances: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom_adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
 | [Eastbound and Down](docs/routes/eastbound_and_down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [Round the Island](docs/routes/round_the_island) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private_group) <br /> [_Contact us!_](https://wa.me/37258972730) |
 
 ## Logistics :truck:
