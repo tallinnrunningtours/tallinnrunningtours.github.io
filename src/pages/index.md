@@ -26,11 +26,6 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
 </center>
 
-<!-- <center>
-👇 **Book Now via Whatsapp** 👇
-
-<a href="https://wa.me/37258972730"><img src="img/whatsapp.svg" height="60"/></a>
-</center> -->
 
 ## The Routes :earth_americas:
 Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6) or [Freedom Square](https://maps.app.goo.gl/mWmMoZELgbBYJfxE6).
