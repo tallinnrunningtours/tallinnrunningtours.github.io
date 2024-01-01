@@ -21,10 +21,12 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 <center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="50%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50%"/></center>
 
 <br /><center>
-[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
+[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-E4E4E4?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
-[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
-[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+[![Email Badge](https://img.shields.io/badge/Contact_us-Email-FC3207?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Google-B1BFFF?logo=google)](https://g.co/kgs/imqSxmJ)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://g.co/kgs/imqSxmJ)
 </center>
 
 
@@ -81,8 +83,10 @@ Choose one (or more) of the following popular options based on your available ti
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
 
 <br /><center>
-[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
+[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-E4E4E4?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
-[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
-[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+[![Email Badge](https://img.shields.io/badge/Contact_us-Email-FC3207?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Google-B1BFFF?logo=google)](https://g.co/kgs/imqSxmJ)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://g.co/kgs/imqSxmJ)
 </center>

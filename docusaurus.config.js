@@ -109,8 +109,8 @@ const config = {
         {to: 'https://wa.me/37258972730', label: 'Book Now', position: 'left'},
         {to: '/docs/routes', label: 'Routes', position: 'left'},
         {
-          label: 'Tip',
-          href: '/donate',
+          label: 'Tip Jar',
+          href: '/tipjar',
           position: 'right',
         },
         {
@@ -140,8 +140,8 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Tip',
-              href: '/donate',
+              label: 'Tip Jar',
+              href: '/tipjar',
             },
             {
               label: 'Contact Us',
