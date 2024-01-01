@@ -2,11 +2,13 @@
 sidebar_position: 4
 ---
 
-# Round the Island
+# The Big Loop
 
 Take the scenic route through multiple neighbourhoods in Tallinn. From the streets of Kalamaja to the beach of Stroomi and Paljasaare peninsula. 
 
-There are 2 options wthin Round the Island. The 1st option features a 17km route, while the 2nd a 18km route. Both start and finish at [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
+There are 2 options wthin The Big Loop. The 1st option features a 17km route, while the 2nd a 18km route. Both start and finish at [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
+
+## Route Map
 
 <center>
 <div class='embed-container maps'>

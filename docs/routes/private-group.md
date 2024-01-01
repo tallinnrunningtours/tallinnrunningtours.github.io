@@ -6,7 +6,7 @@ sidebar_position: 6
 
 For groups with 3 or more people who would like their own private session, this is the best option.
 
-
+Choose one of the existing routes or make your own.
 
 
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)

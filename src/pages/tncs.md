@@ -1,10 +1,10 @@
 ---
 title: Terms and Conditions
-description: Terms and Conditions
+description: These terms and conditions outline the rules and regulations for the use of Tallinn Running Tours's Website, located at https://tallinnrunningtours.com/.
 hide_table_of_contents: true
 ---
 
-<h2><strong>Terms and Conditions</strong></h2>
+<h1><strong>Terms and Conditions</strong></h1>
 
 <p>Welcome to Tallinn Running Tours!</p>
 

@@ -7,7 +7,7 @@ const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 const config = {
-  title: 'Tallinn Running Tours',
+  title: 'Free Tallinn Running Tours',
   tagline: 'Come run with us in Tallinn and see places that normal tourists do not see!',
   favicon: 'img/run-icon.png',
 
@@ -106,11 +106,11 @@ const config = {
         src: 'img/run-icon.png',
       },
       items: [
-        {to: 'https://wa.me/37258972730', label: 'Book Now', position: 'left'},
         {to: '/docs/routes', label: 'Routes', position: 'left'},
+        {to: '/faq', label: 'FAQ', position: 'left'},
         {
-          label: 'Tip',
-          href: '/donate',
+          label: 'Tip Jar',
+          href: '/tipjar',
           position: 'right',
         },
         {
@@ -128,7 +128,11 @@ const config = {
           items: [
             {
               label: 'Google',
-              href: '/',
+              href: 'https://g.co/kgs/imqSxmJ',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/profile.php?id=61555150562314',
             },
           ],
         },
@@ -136,8 +140,8 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Tip',
-              href: '/donate',
+              label: 'Tip Jar',
+              href: '/tipjar',
             },
             {
               label: 'Contact Us',
