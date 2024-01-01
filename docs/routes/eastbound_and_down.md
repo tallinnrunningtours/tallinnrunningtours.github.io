@@ -4,4 +4,13 @@ sidebar_position: 2
 
 # Eastbound and Down
 
-Coming soon...
+Head east of Tallinn and discover the hidden gems of Kadriog Park, the Song Festival Grounds, and the Memorial to Victims of Communism.
+
+The 10km options starts at the Northeastern (NE) corner of [Police Park](https://maps.app.goo.gl/TAEaUZXuEZWk2vuY9) and finishes at the same location. The 12km option starts and finishes at [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
+
+<center>
+<div class='embed-container maps'>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157135756&elevation=on&images=off&maptype=M" width="600" height="500"></iframe></div>
+</center>
+
+[![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)

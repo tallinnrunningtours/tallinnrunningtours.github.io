@@ -34,3 +34,7 @@
     width: initial;
     margin: 0 auto;
 }
+
+.maps iframe{
+  pointer-events: none;
+}
