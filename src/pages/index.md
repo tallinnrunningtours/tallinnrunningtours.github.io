@@ -5,10 +5,12 @@ title: Tallinn Running Tours
 
 ## Tallinn Running Tours 🇪🇪🏃
 
+<br /><center>
 [![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
 [![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+</center>
 
 Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
 
@@ -76,7 +78,9 @@ Looking forward to it!
 - If you're unsure about anything mentioned above, send us a message and we will get back to you as soon as possible.
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
 
+<br /><center>
 [![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
 [![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+</center>
