@@ -7,7 +7,7 @@ const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 const config = {
-  title: 'Tallinn Running Tours',
+  title: 'Free Tallinn Running Tours',
   tagline: 'Come run with us in Tallinn and see places that normal tourists do not see!',
   favicon: 'img/run-icon.png',
 

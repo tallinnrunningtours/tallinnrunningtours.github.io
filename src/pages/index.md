@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Tallinn Running Tours
+description: Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
 ---
 
-## Free Tallinn Running Tours
+# Free Tallinn Running Tours
 
 Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine! 🇪🇪🏃
 
@@ -17,7 +18,7 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 
 🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪
 
-<center><img src="img/istockphoto-497485376-612x612.jpg" width="50%"/><img src="img/istockphoto-158837167-612x612.jpg" width="50%"/></center>
+<center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="50%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50%"/></center>
 
 <br /><center>
 [![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
@@ -32,8 +33,8 @@ Choose one (or more) of the following popular options based on your available ti
 
 |              :hot_pepper:                 |             :hot_pepper::hot_pepper:                 |       :hot_pepper::hot_pepper::hot_pepper:                   |
 |:-----------------------------:|:----------------------------:|:------------------------:|
-|  [The Classic](docs/routes/the_classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit_the_trails) <br /> Distances: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom_adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
-| [Eastbound and Down](docs/routes/eastbound_and_down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [Round the Island](docs/routes/round_the_island) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private_group) <br /> [_Contact us!_](https://wa.me/37258972730) |
+|  [The Classic](docs/routes/the-classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit-the-trails) <br /> Distances: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom-adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
+| [Eastbound and Down](docs/routes/eastbound-and-down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [Round the Island](docs/routes/round-the-island) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private-group) <br /> [_Contact us!_](https://wa.me/37258972730) |
 
 ## Logistics :truck:
 - **Start time**: This is highly tailored to your needs. Not an early riser? No problem. Feel like going out after lunch? Absolutely. Let us know in the booking what time you'd like to start so we can plan accordingly (subject to availability)
@@ -57,7 +58,7 @@ Choose one (or more) of the following popular options based on your available ti
 <center>
 👇 **Book Now via Whatsapp** 👇
 
-<a href="https://wa.me/37258972730"><img src="img/whatsapp.svg" height="60"/></a>
+<a href="https://wa.me/37258972730"><img src="img/whatsapp.svg" alt="Book now via whatsapp." height="60"/></a>
 </center>
 
 ## Last few things

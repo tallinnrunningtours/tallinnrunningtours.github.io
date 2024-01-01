@@ -1,12 +1,12 @@
 ---
-title: Tip
-description: Tip
+title: Tipping Jar
+description: Tip and help support Tallinn Running Tours.
 hide_table_of_contents: true
 ---
 
-## Tip
+# Tip
 
-Thank you very much for supporting Tallinn Running Tours. If you ran with us, please let us know how it went and how we can improve on socials. We appreciate you for taking the time :pray:
+Thank you very much for supporting Tallinn Running Tours! If you ran with us, please let us know how it went and how we can improve on socials. We appreciate you for taking the time :pray:
 
 There's no set amount for tips. Typically, running tours here charge anywhere from €15 to €30 person, but feel free to put whatever amount you're comfortable with!
 

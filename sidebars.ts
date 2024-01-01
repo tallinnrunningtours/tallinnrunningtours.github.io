@@ -21,11 +21,11 @@ const sidebars: SidebarsConfig = {
       link: {
         type: 'generated-index',
         title: 'Routes',
-        description: 'Learn about the routes!',
+        description: 'Learn about the Free Tallinn Running Tour routes!',
         slug: '/routes',
-        keywords: ['routes'],
+        keywords: ['routes', 'running', 'tallinn', 'tours', 'free'],
       },
-      items: ['routes/the_classic', 'routes/eastbound_and_down', 'routes/hit_the_trails', 'routes/the_big_loop', 'routes/custom_adventure', 'routes/private_group'],
+      items: ['routes/the-classic', 'routes/eastbound-and-down', 'routes/hit-the-trails', 'routes/the-big-loop', 'routes/custom-adventure', 'routes/private-group'],
     },
   ],
 

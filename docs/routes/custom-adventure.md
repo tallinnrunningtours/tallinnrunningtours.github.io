@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Custom Adventure
 
-You decide!
+You decide where you go on your running tour in Tallinn!
 
 If none of the routes strikes your fancy, let us know and we can set a route based on points of interest, start/finish locations, and time available.
 
