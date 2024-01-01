@@ -101,6 +101,11 @@ const config = {
         {to: 'https://wa.me/37258972730', label: 'Book Now', position: 'left'},
         {to: '/docs/routes', label: 'Routes', position: 'left'},
         {
+          label: 'Tip',
+          href: '/donate',
+          position: 'right',
+        },
+        {
           href: 'https://wa.me/37258972730',
           label: 'Book Now via WhatsApp',
           position: 'right',
@@ -123,7 +128,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Donate',
+              label: 'Tip',
               href: '/donate',
             },
             {
