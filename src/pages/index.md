@@ -26,7 +26,7 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
 [![Email Badge](https://img.shields.io/badge/Contact_us-Email-FC3207?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-B1BFFF?logo=google)](https://g.co/kgs/imqSxmJ)
-[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://g.co/kgs/imqSxmJ)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://www.facebook.com/profile.php?id=61555150562314)
 </center>
 
 
@@ -79,7 +79,7 @@ Choose one (or more) of the following popular options based on your available ti
     </div>
     </details>
 
-- If you're unsure about anything mentioned above, send us a message with your questions and we will get back to you as soon as possible.
+- If you're unsure about anything mentioned above, take a look at our [FAQ page](/faq)
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
 
 <br /><center>
@@ -88,5 +88,5 @@ Choose one (or more) of the following popular options based on your available ti
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
 [![Email Badge](https://img.shields.io/badge/Contact_us-Email-FC3207?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-B1BFFF?logo=google)](https://g.co/kgs/imqSxmJ)
-[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://g.co/kgs/imqSxmJ)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Facebook-E4E4E4?logo=facebook)](https://www.facebook.com/profile.php?id=61555150562314)
 </center>

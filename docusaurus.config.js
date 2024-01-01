@@ -106,8 +106,8 @@ const config = {
         src: 'img/run-icon.png',
       },
       items: [
-        {to: 'https://wa.me/37258972730', label: 'Book Now', position: 'left'},
         {to: '/docs/routes', label: 'Routes', position: 'left'},
+        {to: '/faq', label: 'FAQ', position: 'left'},
         {
           label: 'Tip Jar',
           href: '/tipjar',
