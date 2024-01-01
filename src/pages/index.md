@@ -5,13 +5,6 @@ title: Tallinn Running Tours
 
 ## Free Tallinn Running Tours
 
-<br /><center>
-[![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
-[![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
-[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
-[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
-</center>
-
 Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine! 🇪🇪🏃
 
 :::info
@@ -26,13 +19,18 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 
 <center><img src="img/istockphoto-497485376-612x612.jpg" width="50%"/><img src="img/istockphoto-158837167-612x612.jpg" width="50%"/></center>
 
-<br />
+<br /><center>
+[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
+[![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
+[![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
+</center>
 
-<center>
+<!-- <center>
 👇 **Book Now via Whatsapp** 👇
 
 <a href="https://wa.me/37258972730"><img src="img/whatsapp.svg" height="60"/></a>
-</center>
+</center> -->
 
 ## The Routes :earth_americas:
 Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [the Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6).
@@ -86,7 +84,7 @@ Choose one (or more) of the following popular options based on your available ti
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
 
 <br /><center>
-[![Revolut Badge](https://img.shields.io/badge/Donate-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
+[![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-000080?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
 [![Whatsapp Badge](https://img.shields.io/badge/Book_now-WhatsApp-00A36C?logo=whatsapp&style=flat-square)](https://wa.me/37258972730)
 [![Email Badge](https://img.shields.io/badge/Contact_Us-Email-e3d8e0?logo=gmail)](mailto:tallinnrunningtours@gmail.com)
 [![Review Badge](https://img.shields.io/badge/Rate_us-Google-C70039?logo=google)](https://google.com)
