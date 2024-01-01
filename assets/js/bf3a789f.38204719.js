@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[374],{6890:e=>{e.exports=JSON.parse('{"title":"Routes","description":"Learn about the routes!","keywords":["routes"],"slug":"/routes","permalink":"/docs/routes","navigation":{"next":{"title":"The Classic","permalink":"/docs/routes/the_classic"}}}')}}]);
