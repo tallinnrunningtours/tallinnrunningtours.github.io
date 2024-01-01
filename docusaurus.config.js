@@ -128,7 +128,11 @@ const config = {
           items: [
             {
               label: 'Google',
-              href: '/',
+              href: 'https://g.co/kgs/imqSxmJ',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/profile.php?id=61555150562314',
             },
           ],
         },

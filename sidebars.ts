@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
         slug: '/routes',
         keywords: ['routes'],
       },
-      items: ['routes/the_classic', 'routes/eastbound_and_down', 'routes/hit_the_trails', 'routes/round_the_island', 'routes/custom_adventure', 'routes/private_group'],
+      items: ['routes/the_classic', 'routes/eastbound_and_down', 'routes/hit_the_trails', 'routes/the_big_loop', 'routes/custom_adventure', 'routes/private_group'],
     },
   ],
 

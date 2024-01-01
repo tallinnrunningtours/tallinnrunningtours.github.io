@@ -45,6 +45,7 @@ Choose one (or more) of the following popular options based on your available ti
 - **Start / Finish location**: Most routes start and finish by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6). Let us know in the booking if you'd prefer to start/finish elsewhere (e.g. by your hotel, by a bar 🍺 ).
 - **Pace**: By default we will aim for 6min/km (10min/mile) pace to start with. During the run, we will check in with you often as well. 
 - **What does this include?**: All runs include photo stops where you can take photos and fueling stops for anything you've brought along.
+- **Grouping**: If there is high demand for the same route on the same day, you may be grouped with other runners. If you'd prefer a private run, let us know.
 
 ## Bookings and Cancellations
 - Bookings: You are welcome to book at least **24 hours in advance** (subject to availability). Start times are between 08:00-19:00.
