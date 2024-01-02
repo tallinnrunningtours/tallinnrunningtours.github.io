@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tallinn Running Tours
+title: Free Tallinn Running Tours
 description: Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
 ---
 
@@ -14,7 +14,7 @@ Bookings available in Jan 2024!
 
 :::
 
-Welcome to Estonia! Whether you're a seasoned runner or an occasional park run participant, running is one of the best ways to see a new city. Choose one of the run options below, or contact us if you have further questions. Tallinn Running Tours has served runners since 2023 from the following countries:
+Welcome to Estonia! Whether you're a seasoned runner or an occasional park run participant, running is one of the best ways to see a new city. Tallinn Running Tours has served runners since 2023 from the following countries:
 
 🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪
 
@@ -30,23 +30,24 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 </center>
 
 
-## The Routes :earth_americas:
-Choose one (or more) of the following popular options based on your available time and fitness level. Most route distances assume we start by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6) or [Freedom Square](https://maps.app.goo.gl/mWmMoZELgbBYJfxE6).
+## The Routes
+Choose one of the following popular options based on your available time and fitness level. 
 
 |              :hot_pepper:                 |             :hot_pepper::hot_pepper:                 |       :hot_pepper::hot_pepper::hot_pepper:                   |
 |:-----------------------------:|:----------------------------:|:------------------------:|
-|  [The Classic](docs/routes/the-classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit-the-trails) <br /> Distances: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom-adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
-| [Eastbound and Down](docs/routes/eastbound-and-down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [The Big Loop](docs/routes/the-big-loop) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private-group) <br /> [_Contact us!_](https://wa.me/37258972730) |
+|  [The Classic](docs/routes/the-classic) <br /> Distance: 5km <br /> Time: ~30m |  [Hit the Trails](docs/routes/hit-the-trails) <br /> Distance: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom-adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
+| [Eastbound and Down](docs/routes/eastbound-and-down) <br /> Distance: 12km <br /> Time: ~1h15m | [The Big Loop](docs/routes/the-big-loop) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private-group) <br /> [_Contact us!_](https://wa.me/37258972730) |
 
-## Logistics :truck:
-- **Start time**: This is highly tailored to your needs. Not an early riser? No problem. Feel like going out after lunch? Absolutely. Let us know in the booking what time you'd like to start so we can plan accordingly (subject to availability)
+<br />
+## Logistics
+- **Start time**: This is highly tailored to your needs. Not an early riser? No problem. Feel like going out after lunch? Absolutely. Let us know in the booking what time you'd like to start between 08:00-19:00 so we can plan accordingly (subject to availability)
 - **Start / Finish location**: Most routes start and finish by [Viru Gate](https://maps.app.goo.gl/N3jNP5vX5Eu6wLve6). Let us know in the booking if you'd prefer to start/finish elsewhere (e.g. by your hotel, by a bar 🍺 ).
-- **Pace**: By default we will aim for 6min/km (10min/mile) pace to start with. During the run, we will check in with you often as well. 
-- **What does this include?**: All runs include photo stops where you can take photos and fueling stops for anything you've brought along.
+- **Pace**: By default we will aim for 6min/km (10min/mile) pace to start with.  
+- **Will we stop?**: All runs include photo stops where you can take photos and fueling stops for anything you've brought along.
 - **Grouping**: If there is high demand for the same route on the same day, you may be grouped with other runners. If you'd prefer a private run, let us know.
 
 ## Bookings and Cancellations
-- Bookings: You are welcome to book at least **24 hours in advance** (subject to availability). Start times are between 08:00-19:00.
+- Bookings: We accept bookings made at least **24 hours in advance** (subject to availability). 
 - Cancellations: Please allow at least 24-hour notice for any cancellations no matter the reason. This means that we can attend to other runners during your slot.
 
 
