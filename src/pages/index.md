@@ -18,7 +18,7 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 
 🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪
 
-<center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="50%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50%"/></center>
+<center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="49.9%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50.1%"/></center>
 
 <br /><center>
 [![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
@@ -36,7 +36,7 @@ Choose one (or more) of the following popular options based on your available ti
 |              :hot_pepper:                 |             :hot_pepper::hot_pepper:                 |       :hot_pepper::hot_pepper::hot_pepper:                   |
 |:-----------------------------:|:----------------------------:|:------------------------:|
 |  [The Classic](docs/routes/the-classic) <br /> Distances: 8/10km <br /> Time: ~50m-1h |  [Hit the Trails](docs/routes/hit-the-trails) <br /> Distances: 11km <br /> Time: 1h10m-1h30m | [Custom Adventure](docs/routes/custom-adventure) <br /> [_Contact us!_](https://wa.me/37258972730) |
-| [Eastbound and Down](docs/routes/eastbound-and-down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [Round the Island](docs/routes/round-the-island) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private-group) <br /> [_Contact us!_](https://wa.me/37258972730) |
+| [Eastbound and Down](docs/routes/eastbound-and-down) <br /> Distances: 10/12km <br /> Time: 1h-1h15m | [The Big Loop](docs/routes/the-big-loop) <br /> Distances: 17/18km <br /> Time: 1h45m-2h | [Private Group](docs/routes/private-group) <br /> [_Contact us!_](https://wa.me/37258972730) |
 
 ## Logistics :truck:
 - **Start time**: This is highly tailored to your needs. Not an early riser? No problem. Feel like going out after lunch? Absolutely. Let us know in the booking what time you'd like to start so we can plan accordingly (subject to availability)
@@ -81,6 +81,11 @@ Choose one (or more) of the following popular options based on your available ti
 
 - If you're unsure about anything mentioned above, take a look at our [FAQ page](/faq)
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
+
+<br /><center>
+    <img src="img/snow-run.png" alt="Running in the winter." width="47.4%"/>
+    <img src="img/tallinn-sign.png" alt="Running past the Tallinn city sign." width="52.6%"/>
+</center>
 
 <br /><center>
 [![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)

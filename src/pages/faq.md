@@ -25,7 +25,7 @@ Every route's start point has a Google Maps link on the website.
 ## How do I recognise the team member who is leading the run?
 They should be in running gear. Let each other know a piece of clothing that is recognizable, e.g. a pink cap, or a blue jacket.
 
-## How much I should tip my guide?
+## How much I should tip my team member?
 For a pay-as-you-wish tour, tipping is completely voluntary. A flat white or cappuccino at a cafe will be ~€5. A regular lunch is ~€10, beer ~€6.5. If you want to take your loved one for a nice dinner, be ready for at least €30 per person. Movies would be ~€12 per person. We hope this will help!
 
 ## How fast will we run?
