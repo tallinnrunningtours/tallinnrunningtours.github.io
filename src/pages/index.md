@@ -18,7 +18,7 @@ Welcome to Estonia! Whether you're a seasoned runner or an occasional park run p
 
 🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪
 
-<center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="50%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50%"/></center>
+<center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="49.9%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50.1%"/></center>
 
 <br /><center>
 [![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
@@ -81,6 +81,11 @@ Choose one (or more) of the following popular options based on your available ti
 
 - If you're unsure about anything mentioned above, take a look at our [FAQ page](/faq)
 - If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
+
+<br /><center>
+    <img src="img/snow-run.png" alt="Running in the winter." width="47.4%"/>
+    <img src="img/tallinn-sign.png" alt="Running past the Tallinn city sign." width="52.6%"/>
+</center>
 
 <br /><center>
 [![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
