@@ -57,12 +57,13 @@ Choose one of the following popular options based on your available time and fit
 3. Dress for the weather. Estonia can be very cold, windy, and icy during the winter and warm in the summer. So be sure to dress appropriately.
 4. Above all, have fun! 🎉 
 
-
+<br />
 <center>
 👇 **Book Now via Whatsapp** 👇
 
 <a href="https://wa.me/37258972730"><img src="img/whatsapp.svg" alt="Book now via whatsapp." height="60"/></a>
 </center>
+<br />
 
 ## Last few things
 - Feel free to use the following booking template. Hover over the top right corner to copy the text.
