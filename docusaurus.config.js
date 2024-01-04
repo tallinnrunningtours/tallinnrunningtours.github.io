@@ -98,7 +98,7 @@ const config = {
     metadata: [
       {name: 'keywords', content: 'running, tallinn, tours, free'},
     ],
-    image: 'img/run-icon.png',
+    image: 'img/snow-run.png',
     navbar: {
       title: 'Tallinn Running Tours',
       logo: {

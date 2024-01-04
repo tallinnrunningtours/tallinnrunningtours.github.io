@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Tallinn Running Tours
+title: Free Tallinn Running Tours - Start with 5km
 description: Come train and explore Tallinn with us! See places that normal tourists do not see. We go rain or shine!
 ---
 
