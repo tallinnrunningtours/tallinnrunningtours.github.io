@@ -96,7 +96,7 @@ const config = {
 
   themeConfig: {
     metadata: [
-      {name: 'keywords', content: 'running, tallinn, tours, free'},
+      {name: 'keywords', content: 'running, tallinn, tours, free, club, estonia, best'},
     ],
     image: 'img/snow-run.png',
     navbar: {
