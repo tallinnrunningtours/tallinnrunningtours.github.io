@@ -96,7 +96,7 @@ const config = {
 
   themeConfig: {
     metadata: [
-      {name: 'keywords', content: 'running, tallinn, tours, free, club, estonia, running tours, running club'},
+      {name: 'keywords', content: 'running, tallinn, tours, free, club, estonia, running tours, running club, ironman, ironman 70.3'},
     ],
     image: 'img/snow-run.png',
     navbar: {
@@ -108,6 +108,7 @@ const config = {
       items: [
         {to: '/docs/routes', label: 'Routes', position: 'left'},
         {to: '/faq', label: 'FAQ', position: 'left'},
+        {to: '/ironman-tallinn', label: 'Ironman Tallinn', position: 'left'},
         {
           label: 'Tip Jar',
           href: '/tipjar',
