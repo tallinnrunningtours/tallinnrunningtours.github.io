@@ -4,7 +4,7 @@ description: Tip and help support Tallinn Running Tours.
 hide_table_of_contents: true
 ---
 
-# Tip
+# Tip Jar
 
 Thank you very much for supporting Tallinn Running Tours! If you ran with us, please let us know how it went and how we can improve on socials. We appreciate you for taking the time :pray:
 

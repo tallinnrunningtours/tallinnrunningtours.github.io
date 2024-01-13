@@ -108,6 +108,7 @@ const config = {
       items: [
         {to: '/docs/routes', label: 'Routes', position: 'left'},
         {to: '/faq', label: 'FAQ', position: 'left'},
+        {to: '/ironman-tallinn', label: 'Ironman Tallinn', position: 'left'},
         {
           label: 'Tip Jar',
           href: '/tipjar',
