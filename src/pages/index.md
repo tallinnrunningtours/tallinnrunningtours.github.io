@@ -16,7 +16,7 @@ Bookings available in March 2024!
 
 Welcome to Estonia! Whether you're a seasoned runner or an occasional park run participant, running is one of the best ways to see a new city. Tallinn Running Tours has served runners since 2023 from the following countries:
 
-🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪
+🇬🇧🇭🇰🇨🇦🇩🇪🇸🇪🇲🇰🇺🇸
 
 <center><img src="img/tallinn-summer.jpg" alt="Tallinn Old Town in the summer." width="49.9%"/><img src="img/tallinn-winter.jpg" alt="Tallinn Old Town in the winter." width="50.1%"/></center>
 
