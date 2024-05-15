@@ -10,7 +10,7 @@ Come train and explore Tallinn with us! See places that normal tourists do not s
 
 :::info
 
-Bookings available in March through May 2024!
+Bookings available in May through July 2024!
 
 :::
 
