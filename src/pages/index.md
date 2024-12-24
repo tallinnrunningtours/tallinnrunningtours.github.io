@@ -94,6 +94,11 @@ Choose one of the following popular options based on your available time and fit
     <img src ="img/1007305977.jpeg" width="50%"/> 
 </center>
 
+<center>
+    <img src ="img/2024-dec-run-tour.png" width="50%"/>
+    <img src ="img/2024-jul-run-tour.png" width="50%"/> 
+</center>
+
 <br /><center>
 [![Stripe Badge](https://img.shields.io/badge/Tip-Stripe-637FFF?logo=stripe&logoColor=fff&style=flat-square)](https://buy.stripe.com/fZedUhalb0Ve2t28ww)
 [![Revolut Badge](https://img.shields.io/badge/Tip-Revolut-E4E4E4?logo=revolut&logoColor=fff&style=flat-square)](https://revolut.me/isaacvui7)
