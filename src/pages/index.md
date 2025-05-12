@@ -10,7 +10,7 @@ Come train and explore Tallinn with us! See places that normal tourists do not s
 
 :::info
 
-Bookings available through June 2025!
+Bookings available June through September 2025!
 
 :::
 
