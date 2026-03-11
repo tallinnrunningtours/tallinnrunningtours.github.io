@@ -10,7 +10,7 @@ Come train and explore Tallinn with us! See places that normal tourists do not s
 
 :::info
 
-Bookings available Jan through April 2026!
+Bookings available March through June 2026!
 
 :::
 
@@ -73,7 +73,7 @@ Choose one of the following popular options based on your available time and fit
             ```
             Hello! My name is {YOUR_NAME} and I would like to join the {OPTION} route.
 
-            Start time: 2024 JAN 02, 17:00
+            Start time: 2026 JAN 02, 17:00
             Pace:       6:30min/km
 
             Looking forward to it!
@@ -82,7 +82,7 @@ Choose one of the following popular options based on your available time and fit
     </details>
 
 - If you're unsure about anything mentioned above, take a look at our [FAQ page](/faq)
-- If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [BrewDog](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
+- If we are unable to accommodate you, feel free to join one of the local running clubs, e.g. [Mikkeller Running Club Tallinn](https://www.facebook.com/mrc.tallinn/), they run every Tuesday from [Pühaste Taproom](https://maps.app.goo.gl/8fXQMqgmR4BzzTs57) at 18:00
 
 <br /><center>
     <img src="img/snow-run.png" alt="Running in the winter." width="47.4%"/>
