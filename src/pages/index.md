@@ -10,7 +10,7 @@ Come train and explore Tallinn with us! See places that normal tourists do not s
 
 :::info
 
-Bookings available Jan through April 2026!
+Bookings available Aug through Dec 2026!
 
 :::
 
